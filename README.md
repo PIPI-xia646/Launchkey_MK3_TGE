@@ -1,4 +1,5 @@
 Fixed the Play button to Start at Cursor and not at 0.0
+Double click the Stop button to go to the beginning of the song
 
 
 Install:
